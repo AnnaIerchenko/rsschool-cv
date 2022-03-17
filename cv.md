@@ -27,5 +27,43 @@ I have very good soft-skills, social skills, persistence in achieving aims, exce
 
 *******
 
+##Code Example
+```
+function digital_root(n) {
+ var sNumero = n.toString();
+ var sum = 0;
+  
+  for (i = 0; i < sNumero.length; i++) {
+    sum += parseInt(sNumero[i]);
+  }
+  if (sum > 9) {
+    return digital_root(sum);
+  }
+  return sum;
+}
+```
+
+******
+
+##Experience
+Creating web-sites, and some element for React projects
+
+
+*********
+
+##Education
+* National Music Academy of P.I.Tchaikovskyi Kiev, Ukraine(orchestra violin player, teacher)
+* Courses:
+    * HTML Academy
+    * CS50 lecture
+    * FreeCodeCamp
+    * Youtube
+
+
+*********
+
+## English
+**A2** - I had been practicing English, during my violin-working tours around the world 
+
 
 
