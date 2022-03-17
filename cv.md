@@ -2,10 +2,10 @@
 **********
 
 ##Contacts
-*Location: Krasnodar, Russia
-*Phone: +79780782871
-*Email: okeaniafree@gmail.com
-*GitHub: AnnaIerchenko
+* Location: Krasnodar, Russia
+* Phone: +79780782871
+* Email: okeaniafree@gmail.com
+* GitHub: AnnaIerchenko
 
 *********
 
@@ -15,4 +15,17 @@ I have very good soft-skills, social skills, persistence in achieving aims, exce
 
 
 *******
+
+
+##Skills
+* HTML
+* CSS/SCSS
+* JavaScript(Basic)
+* Git
+* React(Basic)
+* Swift
+
+*******
+
+
 
